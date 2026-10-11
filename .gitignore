@@ -1,0 +1,48 @@
+Maven build output
+
+target/
+
+Maven wrapper
+
+!.mvn/wrapper/maven-wrapper.jar
+
+Java compiled files
+
+*.class
+
+Log files
+
+*.log
+
+Local environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+Local database files
+
+data/
+*.mv.db
+*.trace.db
+*.h2.db
+
+IDE files
+
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
+
+Temporary files
+
+*.tmp
+*.bak
+*.swp
