@@ -1,4 +1,4 @@
-package com.medicare;
+package com.medicaree.backend;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;

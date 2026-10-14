@@ -1,4 +1,4 @@
-package com.medicare;
+package com.medicaree.backend;
 
 import jakarta.persistence.*;
 
